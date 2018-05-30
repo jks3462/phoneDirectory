@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1441916358 source:e:\aaaaaasemester 5\se\finaldir\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<iomanip>
+	<stdio.h>
+	<conio.h>
+
